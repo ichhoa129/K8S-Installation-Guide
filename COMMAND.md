@@ -1,5 +1,4 @@
-# Kubernetes common command
-
+# KUBERNETES OTHER COMMAND
 
 ## Namespace 
 ### Switch namespace

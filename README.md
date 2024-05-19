@@ -1,5 +1,5 @@
 # K8S INSTALLATION GUIDE
-These are the steps to create a High Availability K8S Cluster with 3 Master nodes, include Monitoring tools like Rancher and Grafana.
+These are the steps to create a high-availability K8S Cluster with 3 Master nodes, including Monitoring tools like Rancher and Grafana.
 
 ## ENVIRONMENT PREPARATION
 Virtual Machines:
